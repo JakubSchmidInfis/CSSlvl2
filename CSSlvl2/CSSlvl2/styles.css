@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: content-box;
+}
+.nadpis{
+    border: 5px dashed red;
+    margin: 10px 200px 10px 200px;
+    padding: 20px;
+}
+.box{
+    border: 5px dashed red;
+    margin: 50px 200px 0px 200px;
+    padding: 20px;
+}
+
+.kolecko{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    border-radius: 100px;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+.kolecko:hover{
+background-color: orange;
+}
